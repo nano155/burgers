@@ -3,13 +3,13 @@ import { Logo } from './Logo'
 import { ListNavbar } from './ListNavbar'
 import { SocialMedia } from './SocialMedia'
 
-export const Navbar = ({onHandleClick}) => {
+export const Navbar = ({id, onHandleClick}) => {
   return (
     <header>
       <div className='container'>
       <nav className='nav'>
         <Logo/>
-        <ListNavbar onHandleClick={onHandleClick}/>
+        <ListNavbar id={id} onHandleClick={onHandleClick}/>
         <SocialMedia/>
       </nav>
       </div>
