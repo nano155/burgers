@@ -1,0 +1,86 @@
+[
+    {
+        "nameId": "Hamburguesa chillan",
+        "id": "1",
+        "category": "burger",
+        "name": "Hamburguesa chillan",
+        "precio": "6000"
+    },
+    {
+        "nameId": "Hamburguesa santiago",
+        "id": "2",
+        "category": "burger",
+        "name": "Hamburguesa santiago",
+        "precio": "5500"
+    },
+    {
+        "nameId": "Hamburguesa antofagasta",
+        "id": "3",
+        "category": "burger",
+        "name": "Hamburguesa antofagasta",
+        "precio": "4000"
+    },
+    {
+        "nameId": "Hamburguesa concepcion",
+        "id": "4",
+        "category": "burger",
+        "name": "Hamburguesa concepcion",
+        "precio": "4000"
+    },
+    {
+        "nameId": "Hamburguesa temuco",
+        "id": "5",
+        "category": "burger",
+        "name": "Hamburguesa temuco",
+        "precio": "3000"
+    },
+    {
+        "nameId": "Hamburguesa arica",
+        "id": "6",
+        "category": "burger",
+        "name": "Hamburguesa arica",
+        "precio": "3200"
+    },
+    {
+        "nameId": "pizza chillan",
+        "id": "7",
+        "category": "pizza",
+        "name": "pizza chillan",
+        "precio": "6000"
+    },
+    {
+        "nameId": "pizza santiago",
+        "id": "8",
+        "category": "pizza",
+        "name": "pizza santiago",
+        "precio": "5500"
+    },
+    {
+        "nameId": "pizza antofagasta",
+        "id": "9",
+        "category": "pizza",
+        "name": "pizza antofagasta",
+        "precio": "4000"
+    },
+    {
+        "nameId": "pizza concepcion",
+        "id": "10",
+        "category": "pizza",
+        "name": "pizza concepcion",
+        "precio": "4000"
+    },
+    {
+        "nameId": "pizza temuco",
+        "id": "11",
+        "category": "pizza",
+        "name": "pizza temuco",
+        "precio": "3000"
+    },
+    {
+        "nameId": "pizza arica",
+        "id": "12",
+        "category": "pizza",
+        "name": "pizza arica",
+        "precio": "3200"
+    }
+]

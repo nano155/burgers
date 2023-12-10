@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #b80202;
+}
+.containter{
+    max-width: 1400px;
+}
+header{
+    background-color: #ffae2c;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    
+}
+.nav-logo{
+    width: 5rem;
+}
+.nav-logo img{
+    width: 100%;
+}
+.nav-list{
+    display: flex;
+    gap: 2rem;
+    font-size: 2rem;
+}
+.nav-list{
+    list-style: none;
+}
+.nav-cart-social{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+}
+.nav-social--list{
+    display: flex;
+    gap: 0.5rem;
+    list-style: none;
+}
+.items-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-between;
+    gap: 2rem;
+    padding: 2rem;
+    margin-top: 6rem;
+    background-color: #ffae2c;
+    border-radius: 15px;
+}
+.card{
+    border-radius: 8px;
+    text-align: center;
+    align-items: center;
+}
+.card img{
+    border-radius: 8px;
+    width: 100%;
+}
+.card-button{
+    margin-bottom: 1rem;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 8rem;
+}
+.carousel{
+    width: 100%;
+    background-color: #ffae2c;
+    border-radius: 15px;
+}
+.carousel-item{
+    width: 100%;
+    padding: 5rem !important;
+    
+}
+.d-block{
+    border-radius: 8px ;
+}
+.nav-link{
+    color: black;
+}
+.nav-button{
+    border: none;
+    background-color: transparent;
+}
