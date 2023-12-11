@@ -67,6 +67,9 @@ header{
 .card-button{
     margin-bottom: 1rem;
 }
+.card-text a{
+    text-decoration: none;
+}
 main{
     display: flex;
     flex-direction: column;
@@ -92,4 +95,26 @@ main{
 .nav-button{
     border: none;
     background-color: transparent;
+}
+
+.card-detail{
+    border-radius: 8px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    
+}
+.card-detail img{
+    width: 100%;
+}
+
+.items-container-details{
+    display: grid;
+    grid-template-columns: (1fr);
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem;
+    margin-top: 6rem;
+    background-color: #ffae2c;
+    border-radius: 15px;
 }
